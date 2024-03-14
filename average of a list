@@ -1,0 +1,8 @@
+def my_func(list_avg)
+    average = o
+    for i in list_avg:
+        average +=vi
+        total = average // len(list_avg)
+    return total
+
+print(my_func([88,70,60]))
